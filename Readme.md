@@ -1,7 +1,7 @@
 # Личный проект «PlayHTML»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/email/1/user/2118643).
-* Наставник: `Неизвестно`.
+* Наставник: Twilight Sparkle.
 
 ---
 
